@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AUTO.cpp" />
     <ClCompile Include="D3 15,07 Pytymko V L.cpp" />
+    <ClCompile Include="Figure .cpp" />
+    <ClCompile Include="Passport.cpp" />
+    <ClCompile Include="Student.cpp" />
+    <ClCompile Include="Transport .cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AUTO.h" />
+    <ClInclude Include="Class%27sStudent.h" />
+    <ClInclude Include="Figure .h" />
+    <ClInclude Include="Passport.h" />
+    <ClInclude Include="Transports.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

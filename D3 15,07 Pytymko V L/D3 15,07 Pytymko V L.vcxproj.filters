@@ -18,5 +18,37 @@
     <ClCompile Include="D3 15,07 Pytymko V L.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Transport .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Passport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Figure .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUTO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Class%27sStudent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Transports.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Passport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure .h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUTO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
